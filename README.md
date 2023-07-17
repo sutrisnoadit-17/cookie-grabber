@@ -1,4 +1,4 @@
-# XSS DOCUMENT STEALER
+# Stored XSS Grab Cookie
 Using telegram bot
 
 # Payload
